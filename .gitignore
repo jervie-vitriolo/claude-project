@@ -1,0 +1,13 @@
+CafePOS/backend/.vs/
+CafePOS/backend/CafePOS.API/bin/
+CafePOS/backend/CafePOS.API/obj/
+CafePOS/backend/CafePOS.Application/obj/Debug/net10.0/CafePOS.Application.GeneratedMSBuildEditorConfig.editorconfig
+CafePOS/backend/CafePOS.Application/obj/Debug/net10.0/CafePOS.Application.pdb
+CafePOS/backend/CafePOS.Application/obj/Debug/net10.0/CafePOS.Application.csproj.FileListAbsolute.txt
+CafePOS/backend/CafePOS.Core/obj/Debug/net10.0/CafePOS.Core.csproj.AssemblyReference.cache
+CafePOS/backend/CafePOS.Core/obj/
+CafePOS/backend/CafePOS.Infrastructure/obj/
+CafePOS/backend/CafePOS.Infrastructure/bin/
+CafePOS/backend/CafePOS.Application/bin/
+CafePOS/backend/CafePOS.Application/obj/
+CafePOS/backend/CafePOS.Core/bin/

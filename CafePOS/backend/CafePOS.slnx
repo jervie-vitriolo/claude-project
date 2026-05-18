@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CafePOS.API/CafePOS.API.csproj" />
+  <Project Path="CafePOS.Application/CafePOS.Application.csproj" />
+  <Project Path="CafePOS.Core/CafePOS.Core.csproj" />
+  <Project Path="CafePOS.Infrastructure/CafePOS.Infrastructure.csproj" />
+</Solution>
